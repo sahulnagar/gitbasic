@@ -1,2 +1,9 @@
-my name is deepak nagar gujjar ,
+git commands that are useful for begginers.
+git init
+git status 
+git add .
+git push -u origin master 
+git config user.name 
+git config user.email
+git commit -m
 
